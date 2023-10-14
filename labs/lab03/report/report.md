@@ -1,7 +1,7 @@
 ---
 ## Front matter
 title: "Лабораторная работа №3"
-subtitle: "Простейший вариант"
+subtitle: "Язык разметки Markdown"
 author: "Семенов Сергей Алексеевич"
 
 ## Generic otions
